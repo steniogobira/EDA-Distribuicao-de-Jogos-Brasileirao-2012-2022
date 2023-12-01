@@ -1,0 +1,7 @@
+geopandas==0.13.2
+geopy==2.3.0
+geodatasets==2023.3.0
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+pandas==1.5.3
+seaborn==0.12.2
